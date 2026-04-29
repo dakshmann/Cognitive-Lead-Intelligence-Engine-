@@ -2,21 +2,27 @@
 
 A stateful, multi-agent AI system built with LangGraph and Gemini 3.1 that automates real-time market research and personalized B2B outreach.
 
- Key Features
-Autonomous Research: Uses Tavily Search API to gather live company updates.
+.Key Features
+Autonomous Research:
+Uses Tavily Search API to gather live company updates.
 
-Stateful Orchestration: Managed by LangGraph for seamless data flow between nodes.
+Stateful Orchestration:
+Managed by LangGraph for seamless data flow between nodes.
 
-Contextual Drafting: Gemini 3.1 synthesizes research into professional partnership pitches.
+Contextual Drafting:
+Gemini 3.1 synthesizes research into professional partnership pitches.
 
- Tech Stack
-Language: Python
+ Tech StackLanguage:
+ Python
 
-Orchestration: LangGraph, LangChain
+Orchestration: 
+LangGraph, LangChain
 
-LLM: Google Gemini 3.1 Flash
+LLM:
+Google Gemini 3.1 Flash
 
-Search Engine: Tavily AI
+Search Engine:
+Tavily AI
 
  Installation & Usage
 Clone the repo: git clone ...
